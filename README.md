@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+    Added as a repro you may clone, if you have a company computer (like mine) where npx and npm init is blocked for security reasons
+
 ## Available Scripts
 
 In the project directory, you can run:
